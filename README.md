@@ -49,8 +49,7 @@ A beautiful, full-stack Next.js application where users enter an IMDb movie ID a
 
 ```bash
 # Clone the repository
-git clone <repo-url>
-cd 5_min_me_paisa_double
+git clone <url>
 
 # Install dependencies
 npm install
